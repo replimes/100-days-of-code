@@ -90,4 +90,71 @@
 **Thoughts:**  Worked a bit on Stage 2.
 **Resources:**
 1. Udacity MWS coursework.
-2. [CS 61A](https://archive.org/details/ucberkeley_webcast_nzMPF59Ackg)
+2. [CS 61A Lecture 10](https://archive.org/details/ucberkeley_webcast_nzMPF59Ackg)
+
+### D13 - 07.11.18
+**Overview:** Watch Udacity Lesson 13, CS 61A Lecture, Stage 2 restaurant project.
+**Thoughts:**  Reorganized files in restaurant project and installed npm packages. Errors are popping up in terminal, I need to do further research to fix it.
+**Resources:**
+1. Udacity MWS coursework.
+2. [CS 61A Lecture 11](https://archive.org/details/ucberkeley_webcast_pSuEz5ZCVAg)
+
+### D14 - 07.12.18
+**Overview:** Watch Udacity videos and work on project 2.
+**Thoughts:**  Not much times today on coding.
+**Resources:**
+1. Udacity MWS coursework.
+
+### D15 - 07.11.18
+**Overview:** Watch Udacity.
+**Thoughts:**  Reorganized files in restaurant project and installed npm packages. Errors are popping up in terminal, I need to do further research to fix it.
+**Resources:**
+1. Udacity MWS coursework.
+
+### D17 D17 D18 D19 D20 - 7.12-17.18
+**Overview:** Watch Udacity.  Read Javascript & Jquery.
+**Thoughts:**  Finished Udacity coursework for Stage 2.  Now I'm ready to finish the project for this stage!
+**Resources:**
+1. Udacity MWS coursework.
+2. Javascript & Jquery by Jon Duckett.
+3. [CS 61A Lecture 12](https://archive.org/details/ucberkeley_webcast_pSuEz5ZCVAg)
+
+### D21 - 7.18.18
+**Overview:** Read Javascript & Jquery book.  Work on Stage 2 Project.
+**Thoughts:**  
+**Resources:**
+1. Javascript & Jquery by Jon Duckett.
+
+### D22 - 7.19.18
+**Overview:** Read Javascript & Jquery book.  Work on Stage 2 Project.  Watch webinar about project 2.
+**Thoughts:**  
+**Resources:**
+1. Javascript & Jquery by Jon Duckett.
+2. [Stage 2 webinar](https://www.youtube.com/watch?v=S7UGidduflQ)
+
+### D23 - 7.20.18
+**Overview:** Read Javascript & Jquery book.
+**Thoughts:**  
+**Resources:**
+1. Javascript & Jquery by Jon Duckett.
+
+### D24 - 7.21.18
+**Overview:** Read Javascript & Jquery book.  CS61A Lecture.
+**Thoughts:**  
+**Resources:**
+1. Javascript & Jquery by Jon Duckett.
+2. [CS 61A Lecture 13](https://archive.org/details/ucberkeley_webcast_kbqJ3UGPgOc)
+
+### D25 - 7.22.18
+**Overview:** CS61A Lecture. Project stage 2.
+**Thoughts:**  Added fetch api to make requests to the server to populate the content.  Installed npm modules, deleted conflicting files.
+**Resources:**
+1. [CS 61A Lecture 14](https://archive.org/details/ucberkeley_webcast_3FjDrWv00Hc)
+2. [Webinar with Darren](https://www.youtube.com/watch?v=S7UGidduflQ)
+
+### D26 - 7.23.18
+**Overview:** 
+**Thoughts:**  
+**Resources:**
+1.
+2. [Webinar with Darren](https://www.youtube.com/watch?v=S7UGidduflQ)
